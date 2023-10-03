@@ -1,0 +1,16 @@
+*,
+body{
+	margin-top:15;
+	padding: 15;
+	font-family: "roboto" sans-serif;
+}
+
+h1{
+	justify-content: center;
+	display: flex;
+}
+
+h3{
+	justify-content: center;
+	display: flex;
+}
